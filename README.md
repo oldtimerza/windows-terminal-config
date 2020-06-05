@@ -24,3 +24,4 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 6) Vim setup can be found here, pull it into ~/.vim_runtime:
 https://github.com/oldtimerza/vimrc
 
+7) Install [AutoHotKey](https://www.autohotkey.com/) and run the QuakeStyle script using it.
