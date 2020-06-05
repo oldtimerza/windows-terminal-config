@@ -13,7 +13,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 3) Set up terminal settings with the settings from the settings.json file.
 
-4) copy contents of PowerShell profile into the profile file create by ```PowerShell notepad $PROFILE``` in PowerShell.
+4) copy contents of PowerShell profile into the profile file create by 
+```PowerShell
+ notepad $PROFILE
+ ```
+ in PowerShell.
 
 5) Install the font files from ttf.
 
