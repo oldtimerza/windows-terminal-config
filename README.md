@@ -1,3 +1,6 @@
+# My Windows Terminal Setup
+My Steps I take to set up the new windows terminal for how I like it
+
 1) The following needs to be installed first to get the posh git line syntactic sugar showing:
 
 ```PowerShell
